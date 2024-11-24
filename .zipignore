@@ -1,0 +1,6 @@
+.gitignore
+.zipignore
+.vscode
+.git
+assets
+package.sh

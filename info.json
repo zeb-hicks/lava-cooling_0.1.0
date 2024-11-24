@@ -1,0 +1,15 @@
+{
+  "name": "lava-cooling",
+  "version": "0.1.0",
+  "title": "Lava Cooling",
+  "description": "Early game lava resources for Vulcanus starts.",
+  "author": "Nimphious",
+  "contact": "Nimphious@gmail.com",
+  "website": "https://nimphio.us/factorio/lava-cooling",
+  "factorio_version": "2.0",
+  "dependencies": [
+    "base >= 2.0",
+    "space-age >= 2.0",
+    "?quality >= 2.0"
+  ]
+}
